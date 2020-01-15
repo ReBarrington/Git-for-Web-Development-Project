@@ -1,4 +1,4 @@
- 1. What is Semantic HTML? 
+ 1. What is Semantic HTML? introduces familiar meaning to website
     2. What is HTML used for? to markup code
     3. What is an attribute and where do we put it?  label inside opening tag to control behavior
     4. What is the h1 tag used for? How many times should I use it on a page? main header; one time
